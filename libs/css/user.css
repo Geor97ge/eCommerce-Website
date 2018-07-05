@@ -5,30 +5,13 @@
 .w-1pct {
 	width:100%;
 }
-.w-100-pct{ width:500px; height:300px; }
+.w-100-pct{ width:350px; height:300px; }
 
 .m-t-0px{ margin-top:0px; }
 .m-b-10px{ margin-bottom:10px; }
 .m-b-20px{ margin-bottom:20px; }
 .m-b-30px{ margin-bottom:30px; }
 .m-b-40px{ margin-bottom:40px; }
-
-.stock-text {
-    font-weight: bold;
-    color: #008a00;
-}
-
-.stock-text-red{
-    font-weight:bold;
-    color:#b12704;
-}
-
-.product-detail {
-    font-weight: bold;
-    margin: 0 0 5px 0;
-}
-
-.blueimp-gallery>.prev, .blueimp-gallery>.next{ border:none; }
 
 .update-quantity-form {
     width: 150px;
